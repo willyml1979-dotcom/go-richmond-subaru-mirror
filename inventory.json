@@ -1,10 +1,25 @@
 {
   "dealership": "Go Richmond Subaru",
-  "generated_at": "2026-10-07T09:43:14",
-  "vehicle_count": 422,
+  "generated_at": "2026-10-08T14:31:38",
+  "vehicle_count": 431,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "Vehicles in Richmond",
+      "vin": "JF1ZDBE17V8700220",
+      "stock": "27BZ022",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/bd754a3901bb.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2021/subaru/crosstrek/richmond/bc/71406086/?sale_class=used",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2021/subaru/crosstrek/richmond/bc/71406086/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:35:44",
+      "price": 40785.0,
+      "price_currency": "CAD",
+      "odometer_km": 16051,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
     {
       "name": "Vehicles in Richmond",
       "vin": "JF1ZDBE17V8700220",
@@ -16,7 +31,24 @@
       "price": 40785.0,
       "price_currency": "CAD",
       "odometer_km": 16051,
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Vehicles in Richmond",
+      "vin": "JF1ZDBE17V8700220",
+      "stock": "27BZ022",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/31c22303a72a.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/mazda/cx-5/richmond/bc/70851662/?sale_class=used",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/mazda/cx-5/richmond/bc/70851662/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:36:37",
+      "price": 40785.0,
+      "price_currency": "CAD",
+      "odometer_km": 16051,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2010 Mazda Mazda3 Sport GX",
@@ -31,7 +63,9 @@
       "year": 2010,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2011 BMW 3 Series Sedan 323i",
@@ -46,7 +80,9 @@
       "year": 2011,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2012 Honda Civic Sedan ONE OWNER | BC LOCAL | LOW KMS!",
@@ -64,7 +100,9 @@
       "year": 2012,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2013 Honda Fit LX",
@@ -80,7 +118,9 @@
       "year": 2013,
       "make": "Honda",
       "model": "Fit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 BMW M3 Sedan ",
@@ -96,7 +136,9 @@
       "year": 2015,
       "make": "BMW",
       "model": "M3 Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Honda CR-V BC CAR | $0 CLAIM | Touring",
@@ -114,7 +156,9 @@
       "year": 2015,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Honda CR-V BC LOCAL | ONE OWNER",
@@ -131,7 +175,9 @@
       "year": 2015,
       "make": "Honda",
       "model": "CR-V BC LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Lexus NX ",
@@ -148,7 +194,9 @@
       "year": 2015,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Subaru Legacy Sedan 2.5i w/Touring Pkg",
@@ -164,7 +212,9 @@
       "year": 2015,
       "make": "Subaru",
       "model": "Legacy",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Toyota Camry Hybrid 1OWNER | NO Accidents | BC Car | XLE",
@@ -182,7 +232,9 @@
       "year": 2015,
       "make": "Toyota",
       "model": "Camry Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2016 Honda CR-V BC Car | Pending Safety",
@@ -200,7 +252,9 @@
       "year": 2016,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Sonata BC CAR | $6,051.97 Claim | 2.4L Sport Tech",
@@ -218,7 +272,9 @@
       "year": 2016,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2016 Mazda CX-3 BC LOCAL | NO ACCIDENTS",
@@ -235,7 +291,9 @@
       "year": 2016,
       "make": "Mazda",
       "model": "CX-3 BC LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 BMW M6 Coupe FROZEN WHITE | ULTIMATE PACKAGE | BC LOCAL | 600HP",
@@ -252,7 +310,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "M6 Coupe FROZEN WHITE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Fit NO ACCIDENTS | BC CAR | 2 OWNERS | SE",
@@ -270,7 +330,9 @@
       "year": 2017,
       "make": "Honda",
       "model": "Fit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Mazda Mazda3 Sport Manual | BC Car | No Accidents | GS",
@@ -287,7 +349,9 @@
       "year": 2017,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz GLE BC Car | $5,523.70 Claim | GLE 400",
@@ -305,7 +369,9 @@
       "year": 2017,
       "make": "Mercedes-Benz",
       "model": "GLE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Subaru Crosstrek LIMITED | AWD | WELL MAINTAINED | LOW KMS",
@@ -323,7 +389,9 @@
       "year": 2017,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Toyota Corolla Sedan BC LOCAL | LOW KMS",
@@ -340,7 +408,9 @@
       "year": 2017,
       "make": "Toyota",
       "model": "Corolla Sedan BC LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Explorer No Accidents | 1 Owner | AB Car | Limited",
@@ -358,7 +428,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Fit New tires! | BC Car | No Accidents | EX",
@@ -376,7 +448,9 @@
       "year": 2018,
       "make": "Honda",
       "model": "Fit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Infiniti Q50 NO ACCIDENTS | VANDALISM CLAIM | 2.0t LUXE",
@@ -394,7 +468,9 @@
       "year": 2018,
       "make": "Infiniti",
       "model": "Q50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru Forester BC LOCAL | NO ACCIDENTS",
@@ -411,7 +487,9 @@
       "year": 2018,
       "make": "Subaru",
       "model": "Forester BC LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota Prius Prime Upgrade",
@@ -429,7 +507,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 BMW M4 Coupe CS | 1/3000 | Special Edition | Factory Tuned",
@@ -446,7 +526,9 @@
       "year": 2019,
       "make": "BMW",
       "model": "M4 Coupe CS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Crosstrek Convenience",
@@ -464,7 +546,9 @@
       "year": 2020,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Forester BC Car | 2 x $2k Claims | Sport",
@@ -482,7 +566,9 @@
       "year": 2020,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Forester $0 Claim | BC Car | 1-Owner | Premier",
@@ -500,7 +586,9 @@
       "year": 2020,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Tesla Model 3 Standard Range Plus",
@@ -516,7 +604,9 @@
       "year": 2020,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota RAV4 BC CAR | $0 CLAIM | LE",
@@ -534,7 +624,9 @@
       "year": 2020,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Tiguan BC Car | 1-Owner | Comfortline",
@@ -552,7 +644,9 @@
       "year": 2020,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Volvo XC40 No Accidents | 1-Owner | BC Car | Inscription",
@@ -570,7 +664,9 @@
       "year": 2020,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 BMW X3 xDrive30i",
@@ -588,7 +684,26 @@
       "year": 2021,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2021 Land Rover Range Rover Evoque BC Car | LOCAL VEHICLE | S",
+      "vin": "SALZJ2FX8MH122593",
+      "stock": "NH13662",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/db7154aaa8e8.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2021/land-rover/range-rover-evoque/richmond/bc/ad13155989/?sale_class=used",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2021/land-rover/range-rover-evoque/richmond/bc/ad13155989/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:34:59",
+      "odometer_km": 71554,
+      "year": 2021,
+      "make": "Land",
+      "model": "Rover Range Rover Evoque BC Car",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek BC Car | Limited | $2.2k claim",
@@ -606,23 +721,9 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
-    },
-    {
-      "name": "2021 Subaru Crosstrek BC Car | $0 Claim | Limited",
-      "vin": "JF2GTHNC2M8337222",
-      "stock": "26OB660",
-      "color": "Grey",
-      "trim": "BC Car",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/bd754a3901bb.html",
-      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2021/subaru/crosstrek/richmond/bc/71406086/?sale_class=used",
-      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2021/subaru/crosstrek/richmond/bc/71406086/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:10:00",
-      "odometer_km": 62317,
-      "year": 2021,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Tesla Model 3 1 Owner | Standard Range Plus",
@@ -640,7 +741,9 @@
       "year": 2021,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota 4Runner TRD OFF ROAD | ONE OWNER | BC LOCAL",
@@ -658,7 +761,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Tacoma Manual! | BC Car | No Accidents",
@@ -676,7 +781,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Venza LE HYBRID | NO ACCIDENTS",
@@ -694,7 +801,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Venza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Acura MDX BC CAR | $0 Claim | Adaptive Cruise",
@@ -712,7 +821,9 @@
       "year": 2022,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Colorado BC CAR | NO ACCIDENTS | TECH & POWER PACK",
@@ -730,7 +841,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco BC CAR | NO ACCIDENTS | 1 OWNER | Badlands",
@@ -748,7 +861,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Mustang Mach-E 360 CAMERA | UP TO 418 KM RANGE | FULL LOAD",
@@ -766,7 +881,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan BC CAR | Sport",
@@ -784,7 +901,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan BC CAR | NO ACCIDENTS | Touring",
@@ -802,7 +921,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLB BC LOCAL | NO ACCIDENTS",
@@ -819,23 +940,29 @@
       "year": 2022,
       "make": "Mercedes-Benz",
       "model": "GLB BC LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2022 Subaru BRZ Sport-tech",
+      "name": "2022 Subaru BRZ BC Car | No Accidents | Sport-tech",
       "vin": "JF1ZDBE18N9700186",
       "stock": "RF00186",
       "color": "Blue",
-      "trim": "Sport-tech",
+      "trim": "BC Car",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/f44f47344a02.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2022/subaru/brz/richmond/bc/71406089/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2022/subaru/brz/richmond/bc/71406089/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:10:11",
+      "last_verified": "2026-10-08T09:35:54",
+      "price": 29995.0,
+      "price_currency": "CAD",
       "odometer_km": 33113,
       "year": 2022,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru WRX CPO | BC LOCAL | NO ACCIDENTS",
@@ -853,7 +980,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 BC CAR | NO ACCIDENTS | RWD",
@@ -871,7 +1000,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 $0 claim | Picture available of minor damage",
@@ -889,7 +1020,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 BC Car | $0 claim | 1-owner | Long Range",
@@ -907,7 +1040,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 BC LOCAL | ONE OWNER",
@@ -924,7 +1059,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3 BC LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model Y BC CAR | 1-OWNER | 2 x $0 CLAIM | Long Range",
@@ -942,7 +1079,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model Y EX-US | UP TO 531 KM RANGE!",
@@ -960,7 +1099,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota RAV4 XLE",
@@ -978,7 +1119,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Venza BC Car | $253.98 | XLE",
@@ -996,7 +1139,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Venza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Volvo XC40 R-Design",
@@ -1014,7 +1159,9 @@
       "year": 2022,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Mustang Mach-E Select | No Accidents | Co-Pilot360",
@@ -1032,7 +1179,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz GLA BC CAR | $1,456.92 | AMG GLA 35",
@@ -1050,7 +1199,9 @@
       "year": 2023,
       "make": "Mercedes-Benz",
       "model": "GLA",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz GLC Coupe New Tires! | BC LOCAL | ONE OWNER",
@@ -1068,7 +1219,9 @@
       "year": 2023,
       "make": "Mercedes-Benz",
       "model": "GLC",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Pathfinder BC CAR | NO ACCIDENTS | 1 OWNER | SL",
@@ -1086,7 +1239,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru BRZ BC CAR | NO ACCIDENTS | Sport-tech",
@@ -1104,7 +1259,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Outback BC Car | No Accidents | 1-Owner | Prem",
@@ -1122,7 +1279,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Solterra No Accidents | BC Car | w/Luxury Package",
@@ -1140,7 +1299,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "Solterra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru WRX BC CAR | NO ACCIDENTS | Sport",
@@ -1158,7 +1319,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru WRX No Accidents | BC CAR | 1 Owner | Sport-tech",
@@ -1176,7 +1339,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model 3 BC CAR | Long Range",
@@ -1194,7 +1359,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y BC CAR | $4,276.74 Claim | Long Range",
@@ -1212,7 +1379,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y BC CAR | $0 claim | 1-Owner | LongRange",
@@ -1230,7 +1399,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota bZ4X LE",
@@ -1246,7 +1417,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "bZ4X",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Taos BC Car | No Accidents | 1-Owner | Comfortline",
@@ -1264,7 +1437,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Audi SQ5 Sportback NO ACCIDENTS | BC CAR | 1-Owner | Technik",
@@ -1281,7 +1456,9 @@
       "year": 2024,
       "make": "Audi",
       "model": "SQ5 Sportback NO ACCIDENTS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 BC LOCAL | NO ACCIDENTS | PREMIUM ESSENTIAL",
@@ -1298,7 +1475,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1 BC LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid BC Car | 1-Owner | $6,020.49 claim | Touring",
@@ -1316,7 +1495,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid BC LOCAL | NO ACCIDENTS | LOW KMS",
@@ -1333,7 +1514,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V Hybrid BC LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Palisade NO ACCIDENTS | 1 OWNER | Urban",
@@ -1351,7 +1534,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander SEL PHEV | BC CAR | NO ACCIDENTS",
@@ -1369,7 +1554,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Altima NO ACCIDENTS | Platinum",
@@ -1387,7 +1574,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Altima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Ascent CPO | ONE OWNER | BC LOCAL",
@@ -1405,7 +1594,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek BC CAR | NO ACCIDENTS | 1 OWNER | Convenience",
@@ -1423,7 +1614,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek CPO | BC LOCAL | ONE OWNER | NO ACCIDENTS",
@@ -1441,7 +1634,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek CPO | BC LOCAL | NO ACCIDENTS",
@@ -1459,7 +1654,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek BC Car | $0 claim | 1-Owner | Touring",
@@ -1477,7 +1674,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek BC CAR | No Accidents | 1-Owner | Touring",
@@ -1488,12 +1687,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/a9beb8692f84.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2024/subaru/crosstrek/richmond/bc/71406088/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2024/subaru/crosstrek/richmond/bc/71406088/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:10:20",
+      "last_verified": "2026-10-08T09:36:05",
+      "price": 27495.0,
+      "price_currency": "CAD",
       "odometer_km": 24566,
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Wilderness",
@@ -1510,7 +1713,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Forester BC CAR | NO ACCIDENTS | 1 Owner | Limited",
@@ -1528,7 +1733,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Forester No Accidents | BC Car | 1-Owner | Premier",
@@ -1546,7 +1753,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback Onyx | BC CAR | 1 Owner | $1,385.63 Claim",
@@ -1564,7 +1773,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Solterra w/Luxury Package | NO ACCIDENTS | BC CAR| 1 OWNER",
@@ -1582,7 +1793,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Solterra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX CPO | BC LOCAL | ONE OWNER | NO ACCIDENTS",
@@ -1600,7 +1813,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX CPO | BC LOCAL | ONE OWNER | NO ACCIDENTS",
@@ -1618,7 +1833,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Tesla Model 3 BC Car | $1,754.15 claim | Standard",
@@ -1636,7 +1853,9 @@
       "year": 2024,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Tesla Model X ONE OWNER | NO ACCIDENTS | UP TO 500 KM RANGE",
@@ -1654,7 +1873,9 @@
       "year": 2024,
       "make": "Tesla",
       "model": "Model X",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Tesla Model Y STANDARD RANGE | BC LOCAL",
@@ -1672,7 +1893,9 @@
       "year": 2024,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Equinox EV LT",
@@ -1690,7 +1913,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Equinox EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Mustang Mach-E NO ACCIDENTS | Premium",
@@ -1708,7 +1933,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda Mazda3 Sedan AWD BC Car | No claims | Leather | GS",
@@ -1726,7 +1953,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander PHEV BC CAR | $4,637.34 | GT",
@@ -1744,7 +1973,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru BRZ CPO | BC LOCAL | ONE OWNER | NO ACCIDENTS",
@@ -1762,7 +1993,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Crosstrek Limited",
@@ -1780,23 +2013,29 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2025 Subaru Crosstrek Convenience",
+      "name": "2025 Subaru Crosstrek BC Car | No Accidents | Convenience",
       "vin": "JF2GUABC4SH223759",
       "stock": "AL0394",
       "color": "White",
-      "trim": "Convenience",
+      "trim": "BC Car",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/81bf7b125e65.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/crosstrek/richmond/bc/71406087/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/crosstrek/richmond/bc/71406087/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:10:38",
+      "last_verified": "2026-10-08T09:36:16",
+      "price": 32495.0,
+      "price_currency": "CAD",
       "odometer_km": 9808,
       "year": 2025,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Crosstrek BC Car | No Accidents | 1Owner | Touring",
@@ -1814,7 +2053,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester BC CAR | $5,955.89 & $1,349.22 CLAIM | Touring",
@@ -1832,7 +2073,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester CPO | BC LOCAL | ONE OWNER | NO ACCIDENTS",
@@ -1843,14 +2086,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/d6a070db1f9d.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/forester/richmond/bc/71308664/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/forester/richmond/bc/71308664/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T06:48:37",
+      "last_verified": "2026-10-08T09:35:08",
       "price": 37995.0,
       "price_currency": "CAD",
       "odometer_km": 15617,
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester CPO | BC LOCAL | ONE OWNER | NO ACCIDENTS",
@@ -1861,14 +2106,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/35a79d100ba2.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/forester/richmond/bc/71308668/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/forester/richmond/bc/71308668/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T06:48:48",
+      "last_verified": "2026-10-08T09:35:17",
       "price": 37995.0,
       "price_currency": "CAD",
       "odometer_km": 12876,
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester CPO | BC LOCAL | ONE OWNER | NO ACCIDENTS",
@@ -1879,14 +2126,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/ce0a40013ce2.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/forester/richmond/bc/71332774/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/forester/richmond/bc/71332774/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T06:48:58",
+      "last_verified": "2026-10-08T09:35:26",
       "price": 38995.0,
       "price_currency": "CAD",
       "odometer_km": 20180,
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Limited",
@@ -1904,7 +2153,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Outback BC CAR | $0 CLAIM | 1 OWNER | Limited",
@@ -1915,14 +2166,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/b9e92d085cac.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/outback/richmond/bc/70774824/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2025/subaru/outback/richmond/bc/70774824/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T06:49:09",
-      "price": 39995.0,
+      "last_verified": "2026-10-08T09:35:35",
+      "price": 37995.0,
       "price_currency": "CAD",
       "odometer_km": 39687,
       "year": 2025,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Tesla Model 3 No accidents | Premium",
@@ -1940,41 +2193,28 @@
       "year": 2025,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2025 Toyota Corolla Sedan LE",
+      "name": "2025 Toyota Corolla Sedan BC - Local Car | LE",
       "vin": "5YFB4MDE8SP232767",
       "stock": "EF0129",
       "color": "Grey",
-      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/9aa823838b14.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2025/toyota/corolla-sedan/richmond/bc/71406091/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2025/toyota/corolla-sedan/richmond/bc/71406091/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:10:47",
+      "last_verified": "2026-10-08T09:36:26",
+      "price": 26995.0,
+      "price_currency": "CAD",
       "odometer_km": 19213,
       "year": 2025,
       "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Mazda CX-5 LOCAL BC CAR | NO ACCIDENTS | GS",
-      "vin": "JM3KMBHA6T0101805",
-      "stock": "PW0163",
-      "color": "Grey",
-      "trim": "LOCAL BC CAR",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/31c22303a72a.html",
-      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/mazda/cx-5/richmond/bc/70851662/?sale_class=used",
-      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/mazda/cx-5/richmond/bc/70851662/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:10:55",
-      "price": 34995.0,
-      "price_currency": "CAD",
-      "odometer_km": 4872,
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used"
+      "model": "Corolla Sedan BC - Local Car",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz CLA Coupe No Accidents | 1 Owner | CLA 250",
@@ -1985,14 +2225,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/fafccc02e777.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/mercedes-benz/cla-coupe/richmond/bc/71219680/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/mercedes-benz/cla-coupe/richmond/bc/71219680/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:11:04",
+      "last_verified": "2026-10-08T09:36:46",
       "price": 36995.0,
       "price_currency": "CAD",
       "odometer_km": 28216,
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "CLA",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru BRZ DEMO! | tS | WE BEAT ANY SUBARU DEAL",
@@ -2002,14 +2244,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/f8c3108d72d3.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/brz/richmond/bc/70907477/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/brz/richmond/bc/70907477/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:11:14",
+      "last_verified": "2026-10-08T09:36:56",
       "price": 38998.0,
       "price_currency": "CAD",
       "odometer_km": 297,
       "year": 2026,
       "make": "Subaru",
       "model": "BRZ DEMO!",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid DEMO! Hybrid Limited",
@@ -2019,14 +2263,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/8c942e1c49a9.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/crosstrek-hybrid/richmond/bc/70907478/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/crosstrek-hybrid/richmond/bc/70907478/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:11:23",
+      "last_verified": "2026-10-08T09:37:07",
       "price": 41991.0,
       "price_currency": "CAD",
       "odometer_km": 323,
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid DEMO! Hybrid Limited",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid *DEMO* - HYBRID LIMITED",
@@ -2037,14 +2283,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/24246e213768.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/crosstrek-hybrid/richmond/bc/70943902/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/crosstrek-hybrid/richmond/bc/70943902/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:11:33",
+      "last_verified": "2026-10-08T09:37:15",
       "price": 41889.0,
       "price_currency": "CAD",
       "odometer_km": 332,
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid DEMO - Hybrid Limited",
@@ -2054,14 +2302,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/b08a4ab1bfb8.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/crosstrek-hybrid/richmond/bc/70956843/?sale_class=used",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/crosstrek-hybrid/richmond/bc/70956843/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T08:11:42",
-      "price": 41989.0,
+      "last_verified": "2026-10-08T09:37:23",
+      "price": 41498.0,
       "price_currency": "CAD",
       "odometer_km": 289,
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid DEMO - Hybrid Limited",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid DEMO! | HYBRID LIMITED",
@@ -2078,7 +2328,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid DEMO!",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid DEMO! | Hybrid Limited | UNDER NEW OWNERSHIP",
@@ -2095,7 +2347,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid DEMO!",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester DEMO - HYBRID PREMIER",
@@ -2112,7 +2366,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester DEMO - HYBRID PREMIER",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester BC CAR | NO ACCIDENTS | Sport",
@@ -2129,7 +2385,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid DEMO!",
@@ -2146,7 +2404,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid DEMO!",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester DEMO! | Hybrid Premier",
@@ -2163,7 +2423,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester DEMO!",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE | UNDER NEW OWNERSHIP",
@@ -2181,7 +2443,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT DEMO | WE BEAT ANY SUBARU DEAL",
@@ -2199,7 +2463,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | NO ACCIDENTS | BC CAR | 1 Owner",
@@ -2217,7 +2483,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback DEMO - TOURING",
@@ -2234,7 +2502,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback DEMO - TOURING",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT DEMO | WE BEAT ANY SUBARU DEAL",
@@ -2252,7 +2522,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback DEMO!!! | Wilderness | WE BEAT ANY SUBARU DEAL",
@@ -2269,7 +2541,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback DEMO!!!",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX DEMO | tS | 6 Speed MT | UNDER NEW OWNERSHIP",
@@ -2286,7 +2560,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX DEMO",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru BRZ tS | WE BEAT ANY SUBARU DEAL",
@@ -2304,7 +2580,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru BRZ Sport-Tech | WE BEAT ANY SUBARU DEAL",
@@ -2322,7 +2600,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru BRZ BRZ | WE BEAT ANY SUBARU DEAL",
@@ -2340,7 +2620,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru BRZ ARRIVING SOON | BRZ | UNDER NEW OWNERSHIP",
@@ -2358,7 +2640,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2376,7 +2660,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2394,7 +2680,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2412,7 +2700,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2430,7 +2720,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2448,7 +2740,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2466,7 +2760,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2484,7 +2780,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2502,7 +2800,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2520,7 +2820,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2538,7 +2840,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2556,7 +2860,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
@@ -2574,7 +2880,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2592,7 +2900,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -2610,7 +2920,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2628,7 +2940,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -2646,7 +2960,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2664,7 +2980,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2682,7 +3000,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2700,7 +3020,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2718,7 +3040,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2736,7 +3060,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
@@ -2754,7 +3080,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2772,7 +3100,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2790,7 +3120,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2808,7 +3140,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2826,7 +3160,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
@@ -2844,7 +3180,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2862,7 +3200,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience | WE BEAT ANY SUBARU DEAL",
@@ -2880,7 +3220,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2898,7 +3240,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2916,7 +3260,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience | WE BEAT ANY SUBARU DEAL",
@@ -2934,7 +3280,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2952,7 +3300,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2970,7 +3320,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -2988,7 +3340,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3006,7 +3360,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -3024,7 +3380,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3042,7 +3400,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3060,7 +3420,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -3078,7 +3440,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3096,7 +3460,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -3114,7 +3480,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -3132,7 +3500,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3150,7 +3520,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience | WE BEAT ANY SUBARU DEAL",
@@ -3168,7 +3540,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
@@ -3186,7 +3560,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -3204,7 +3580,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -3222,7 +3600,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3240,7 +3620,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -3258,7 +3640,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3276,7 +3660,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3294,7 +3680,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3312,7 +3700,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3330,7 +3720,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
@@ -3348,7 +3740,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3366,7 +3760,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
@@ -3384,7 +3780,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience | WE BEAT ANY SUBARU DEAL",
@@ -3402,7 +3800,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
@@ -3420,7 +3820,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
@@ -3438,7 +3840,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3456,7 +3860,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3474,7 +3880,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
@@ -3492,7 +3900,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3510,7 +3920,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3528,7 +3940,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience | WE BEAT ANY SUBARU DEAL",
@@ -3546,7 +3960,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3564,7 +3980,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
@@ -3582,7 +4000,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
@@ -3600,7 +4020,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience",
@@ -3618,7 +4040,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -3636,7 +4060,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -3654,7 +4080,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -3672,7 +4100,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -3690,7 +4120,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -3708,7 +4140,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -3726,7 +4160,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -3744,7 +4180,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -3762,7 +4200,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -3780,7 +4220,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -3798,7 +4240,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -3816,7 +4260,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -3834,7 +4280,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -3852,7 +4300,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -3870,7 +4320,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -3888,7 +4340,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -3906,7 +4360,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -3924,7 +4380,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -3942,7 +4400,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -3960,7 +4420,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -3978,7 +4440,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -3996,7 +4460,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4014,7 +4480,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4032,7 +4500,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -4050,7 +4520,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -4068,7 +4540,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -4086,7 +4560,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -4104,7 +4580,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -4122,7 +4600,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4140,7 +4620,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier Demo! | WE BEAT ANY SUBARU DEAL",
@@ -4158,7 +4640,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -4176,7 +4660,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4194,7 +4680,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -4212,7 +4700,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4230,7 +4720,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -4248,7 +4740,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4266,7 +4760,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4284,7 +4780,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4302,7 +4800,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4320,7 +4820,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4338,7 +4840,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4356,7 +4860,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -4374,7 +4880,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4392,7 +4900,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -4410,7 +4920,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4421,14 +4933,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/554e21727db1.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71109864/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71109864/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:07:36",
+      "last_verified": "2026-10-08T09:47:19",
       "price": 41885.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4439,14 +4953,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/f9b257323677.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71109865/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71109865/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:07:48",
+      "last_verified": "2026-10-08T09:47:29",
       "price": 46385.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -4457,14 +4973,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/7925e95c8b4e.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71109867/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71109867/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:07:57",
+      "last_verified": "2026-10-08T09:47:39",
       "price": 48385.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4475,14 +4993,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/6ace16129e4e.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71122195/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71122195/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:08:07",
+      "last_verified": "2026-10-08T09:47:50",
       "price": 41885.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4493,14 +5013,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/421048c83705.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71122196/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71122196/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:08:18",
+      "last_verified": "2026-10-08T09:48:00",
       "price": 41885.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4511,14 +5033,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/e4fa60320c1e.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71122199/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71122199/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:08:27",
+      "last_verified": "2026-10-08T09:48:10",
       "price": 41885.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4529,14 +5053,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/b91befc8e983.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71122203/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71122203/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:08:47",
+      "last_verified": "2026-10-08T09:48:20",
       "price": 41885.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4547,14 +5073,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/aa077a3f1fbc.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194416/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194416/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:08:57",
+      "last_verified": "2026-10-08T09:48:28",
       "price": 46385.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -4565,14 +5093,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/fedfaed5836b.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194419/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194419/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:09:07",
+      "last_verified": "2026-10-08T09:48:38",
       "price": 48385.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4583,14 +5113,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/031d1b4a2a1d.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194420/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194420/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:09:17",
+      "last_verified": "2026-10-08T09:48:47",
       "price": 46385.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4601,14 +5133,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/b672a174e9dc.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194421/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194421/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:09:25",
+      "last_verified": "2026-10-08T09:48:57",
       "price": 46385.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -4619,14 +5153,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/87d371a02795.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194427/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194427/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:09:35",
+      "last_verified": "2026-10-08T09:49:08",
       "price": 51385.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -4637,14 +5173,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/e2e9f85bd715.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194428/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194428/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:09:46",
+      "last_verified": "2026-10-08T09:49:19",
       "price": 51385.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -4655,14 +5193,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/1ef4dc18d20a.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194429/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194429/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:09:57",
+      "last_verified": "2026-10-08T09:49:29",
       "price": 36885.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -4673,14 +5213,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/a1d891c6e4e2.html",
       "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194430/?sale_class=new",
       "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/forester/richmond/bc/71194430/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:10:08",
+      "last_verified": "2026-10-08T09:49:39",
       "price": 51385.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -4698,7 +5240,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -4716,7 +5260,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4734,7 +5280,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -4752,7 +5300,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4770,7 +5320,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -4788,7 +5340,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -4806,7 +5360,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -4824,7 +5380,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -4842,7 +5400,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -4860,7 +5420,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4878,7 +5440,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4896,7 +5460,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4914,7 +5480,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4932,7 +5500,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4950,7 +5520,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -4968,7 +5540,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -4986,7 +5560,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5004,7 +5580,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5022,7 +5600,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5040,7 +5620,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5058,7 +5640,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -5076,7 +5660,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5094,7 +5680,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -5112,7 +5700,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -5130,7 +5720,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -5148,7 +5740,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -5166,7 +5760,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -5184,7 +5780,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -5202,7 +5800,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -5220,7 +5820,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -5238,7 +5840,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -5256,7 +5860,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5274,7 +5880,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5292,7 +5900,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -5310,7 +5920,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -5328,7 +5940,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5346,7 +5960,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | WE BEAT ANY SUBARU DEAL",
@@ -5364,7 +5980,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5382,7 +6000,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | WE BEAT ANY SUBARU DEAL",
@@ -5400,7 +6020,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5418,7 +6040,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5436,7 +6060,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -5454,7 +6080,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
@@ -5472,7 +6100,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -5490,7 +6120,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5508,7 +6140,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5526,7 +6160,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5544,7 +6180,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5562,7 +6200,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport",
@@ -5579,7 +6219,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited",
@@ -5597,7 +6239,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited",
@@ -5615,7 +6259,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience",
@@ -5632,7 +6278,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience",
@@ -5650,7 +6298,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
@@ -5668,7 +6318,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience",
@@ -5686,7 +6338,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester ARRIVING SOON | HYBRID PREMIER | UNDER NEW OWNERSHIP",
@@ -5704,7 +6358,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
@@ -5722,7 +6378,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -5740,7 +6398,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5758,7 +6418,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5776,7 +6438,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5794,7 +6458,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5812,7 +6478,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5830,7 +6498,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5848,7 +6518,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5866,7 +6538,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
@@ -5884,7 +6558,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
@@ -5902,7 +6578,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -5920,7 +6598,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -5938,7 +6618,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -5956,7 +6638,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -5974,7 +6658,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -5992,7 +6678,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6010,7 +6698,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6028,7 +6718,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6046,7 +6738,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6064,7 +6758,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6082,7 +6778,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6100,7 +6798,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6118,7 +6818,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6136,7 +6838,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6154,7 +6858,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6172,7 +6878,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6190,7 +6898,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6208,7 +6918,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6226,7 +6938,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6244,7 +6958,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6262,7 +6978,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6280,7 +6998,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6298,7 +7018,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6316,7 +7038,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6334,7 +7058,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6352,7 +7078,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6370,7 +7098,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6388,7 +7118,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6406,7 +7138,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6424,7 +7158,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6442,7 +7178,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6460,7 +7198,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6478,7 +7218,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6496,7 +7238,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6514,7 +7258,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6532,7 +7278,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6550,7 +7298,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6568,7 +7318,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6586,7 +7338,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6604,7 +7358,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6622,7 +7378,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6640,7 +7398,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6658,7 +7418,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6676,7 +7438,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6694,7 +7458,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6712,7 +7478,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6730,7 +7498,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6748,7 +7518,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6766,7 +7538,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6784,7 +7558,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6802,7 +7578,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6820,7 +7598,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6838,7 +7618,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6856,7 +7638,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6874,7 +7658,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6892,7 +7678,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6910,7 +7698,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
@@ -6928,7 +7718,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -6946,7 +7738,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6964,7 +7758,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -6982,7 +7778,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
@@ -7000,7 +7798,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -7018,7 +7818,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
@@ -7036,7 +7838,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
@@ -7054,7 +7858,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
@@ -7072,7 +7878,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
@@ -7090,7 +7898,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
@@ -7108,7 +7918,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
@@ -7126,7 +7938,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru OUTBACK Premier XT",
@@ -7143,7 +7957,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
@@ -7161,7 +7977,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
@@ -7179,7 +7997,29 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness",
+      "vin": "JF2BURLD7TY596117",
+      "stock": "26OB611",
+      "color": "Grey",
+      "trim": "Wilderness",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/747bfdcb9e5b.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/outback/richmond/bc/ad13155935/?sale_class=new",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2026/subaru/outback/richmond/bc/ad13155935/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:45:56",
+      "price": 51885.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseeker Touring | WE BEAT ANY SUBARU DEAL",
@@ -7196,7 +8036,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseeker Touring",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted Fwd | WE BEAT ANY SUBARU DEAL",
@@ -7213,7 +8055,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted Fwd",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted FWD | WE BEAT ANY SUBARU DEAL",
@@ -7230,7 +8074,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted FWD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted Sport | WE BEAT ANY SUBARU DEAL",
@@ -7247,7 +8093,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted Sport | WE BEAT ANY SUBARU DEAL",
@@ -7264,7 +8112,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX tS | WE BEAT ANY SUBARU DEAL",
@@ -7282,7 +8132,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX GT | WE BEAT ANY SUBARU DEAL",
@@ -7300,7 +8152,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Sport | WE BEAT ANY SUBARU DEAL",
@@ -7318,7 +8172,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Sport-Tech | WE BEAT ANY SUBARU DEAL",
@@ -7336,7 +8192,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Sport-tech",
@@ -7354,7 +8212,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Sport-Tech | WE BEAT ANY SUBARU DEAL",
@@ -7372,7 +8232,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX tS | WE BEAT ANY SUBARU DEAL",
@@ -7390,7 +8252,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Sport | WE BEAT ANY SUBARU DEAL",
@@ -7408,7 +8272,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX tS | WE BEAT ANY SUBARU DEAL",
@@ -7426,7 +8292,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru BRZ Sport Tech | WE BEAT ANY SUBARU DEAL",
@@ -7444,7 +8312,107 @@
       "year": 2027,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Sport Hybrid",
+      "vin": "JF2GUSGD1V8202394",
+      "stock": "27CT239",
+      "color": "Blue",
+      "trim": "Sport Hybrid",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/6547bd2d8013.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155937/?sale_class=new",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155937/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:46:07",
+      "price": 36995.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Sport Hybrid",
+      "vin": "JF2GUSGD1V8202301",
+      "stock": "27CT230",
+      "color": "Red",
+      "trim": "Sport Hybrid",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/08433c6bb27e.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155941/?sale_class=new",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155941/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:46:17",
+      "price": 36995.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Sport Hybrid",
+      "vin": "JF2GUSGD0V8202564",
+      "stock": "27CT256",
+      "color": "White",
+      "trim": "Sport Hybrid",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/aa07c8070956.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155942/?sale_class=new",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155942/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:46:28",
+      "price": 36995.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Sport Hybrid",
+      "vin": "JF2GUSGD8V8202652",
+      "stock": "27CT265",
+      "trim": "Sport Hybrid",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ba7d15a37dd2.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155944/?sale_class=new",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155944/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:46:37",
+      "price": 36995.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Sport Hybrid",
+      "vin": "JF2GUSGD0V8202662",
+      "stock": "27CT266",
+      "trim": "Sport Hybrid",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/190873f4c6c8.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155945/?sale_class=new",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/crosstrek-hybrid/richmond/bc/ad13155945/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:46:47",
+      "price": 36995.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Trailseeker Premier | WE BEAT ANY SUBARU DEAL",
@@ -7461,7 +8429,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Trailseeker Premier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Trailseeker Limited | WE BEAT ANY SUBARU DEAL",
@@ -7478,7 +8448,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Trailseeker Limited",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Trailseeker Limited | WE BEAT ANY SUBARU DEAL",
@@ -7495,7 +8467,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Trailseeker Limited",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Trailseeker Premier | WE BEAT ANY SUBARU DEAL",
@@ -7512,7 +8486,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Trailseeker Premier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Trailseeker Touring | WE BEAT ANY SUBARU DEAL",
@@ -7529,7 +8505,46 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Trailseeker Touring",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Subaru Uncharted ",
+      "vin": "JTMACABE5VJ033488",
+      "stock": "27UN348",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/15472ade2b26.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/uncharted/richmond/bc/ad13155936/?sale_class=new",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/uncharted/richmond/bc/ad13155936/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:46:58",
+      "price": 40995.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Uncharted",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Subaru Uncharted ",
+      "vin": "JTMACABE6VJ032799",
+      "stock": "27UN279",
+      "color": "Green",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/bf95c424f29c.html",
+      "source_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/uncharted/richmond/bc/ad13155946/?sale_class=new",
+      "dealer_url": "https://www.gorichmondsubaru.ca/vehicles/2027/subaru/uncharted/richmond/bc/ad13155946/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:47:09",
+      "price": 40995.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Uncharted",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     }
   ]
 }
