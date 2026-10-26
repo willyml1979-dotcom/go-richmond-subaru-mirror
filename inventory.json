@@ -1,10 +1,19 @@
 {
   "dealership": "Go Richmond Subaru",
-  "generated_at": "2026-10-25T21:08:12",
-  "vehicle_count": 471,
+  "generated_at": "2026-10-26T05:52:36",
+  "vehicle_count": 472,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2009 Dodge RAM Quad Cab SLT",
+      "vin": "1D3HV18P99S763896",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/16e64e260cc3.html",
+      "year": 2009,
+      "make": "Dodge",
+      "model": "RAM Quad Cab SLT",
+      "condition": "used"
+    },
     {
       "name": "2010 Mazda Mazda3 Sport $0 Claim | Well-Maintained | BC Car | GX",
       "vin": "JM1BL1HF8A1281765",
@@ -34,7 +43,9 @@
       "year": 2011,
       "make": "Mercedes-Benz",
       "model": "B-Class Low KM's",
-      "condition": "used"
+      "condition": "used",
+      "price": 11995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2012 Honda Civic Sedan ONE OWNER | BC LOCAL | LOW KMS!",
@@ -669,7 +680,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "used",
-      "price": 29995.0,
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -691,7 +702,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 45995.0,
+      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
@@ -702,7 +713,7 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 43995.0,
+      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -713,7 +724,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 34995.0,
+      "price": 33959.0,
       "price_currency": "CAD"
     },
     {
@@ -737,6 +748,15 @@
       "condition": "used",
       "price": 28995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Subaru Forester",
+      "vin": "JF2SKECCXPH402837",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/0c5529d83c37.html",
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used"
     },
     {
       "name": "2023 Subaru Outback BC Car | No Accidents | 1-Owner | Prem",
@@ -779,7 +799,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 27995.0,
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
@@ -832,7 +852,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 24495.0,
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
@@ -921,17 +941,6 @@
       "model": "BRZ",
       "condition": "used",
       "price": 35495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Crosstrek BC CAR | NO ACCIDENTS | 1 OWNER | Convenience",
-      "vin": "JF2GUABC1R8914550",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/f3785d976f58.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 26495.0,
       "price_currency": "CAD"
     },
     {
