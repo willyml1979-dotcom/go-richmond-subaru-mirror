@@ -1,7 +1,7 @@
 {
   "dealership": "Go Richmond Subaru",
-  "generated_at": "2026-10-26T05:52:36",
-  "vehicle_count": 472,
+  "generated_at": "2026-10-26T06:01:55",
+  "vehicle_count": 469,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2247,17 +2247,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLDACXTH466235",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/96f2ff44cd22.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 36885.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2SLDRC7TH467816",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/29d2f38c3b31.html",
@@ -3471,17 +3460,6 @@
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2SLSTD7TH475002",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ae5dc6ecb97d.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLSTD3TH469200",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/fd18bae1bb8c.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
@@ -4747,17 +4725,6 @@
       "name": "2026 Subaru Uncharted Sport | WE BEAT ANY SUBARU DEAL",
       "vin": "JTMAAAAE3TJ026883",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/3c99149146da.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Uncharted Sport",
-      "condition": "new",
-      "price": 52685.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Uncharted Sport | WE BEAT ANY SUBARU DEAL",
-      "vin": "JTMAAAAE9TJ027570",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/b39d4e6fceae.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted Sport",
