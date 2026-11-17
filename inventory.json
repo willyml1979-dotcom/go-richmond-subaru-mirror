@@ -1,18 +1,20 @@
 {
   "dealership": "Go Richmond Subaru",
-  "generated_at": "2026-10-26T06:01:55",
-  "vehicle_count": 469,
+  "generated_at": "2026-11-17T03:19:52",
+  "vehicle_count": 487,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2009 Dodge RAM Quad Cab SLT",
-      "vin": "1D3HV18P99S763896",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/16e64e260cc3.html",
-      "year": 2009,
-      "make": "Dodge",
-      "model": "RAM Quad Cab SLT",
-      "condition": "used"
+      "name": "2010 Honda Civic Sedan Saftied | BC Car | 1-Owner | $3,065.62 Claim",
+      "vin": "2HGFA1F46AH006097",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/384501885a76.html",
+      "year": 2010,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 9995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2010 Mazda Mazda3 Sport $0 Claim | Well-Maintained | BC Car | GX",
@@ -59,6 +61,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2012 Nissan Xterra BC Car | S-Trim",
+      "vin": "5N1AN0NWXCC527254",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/0d427d253728.html",
+      "year": 2012,
+      "make": "Nissan",
+      "model": "Xterra BC Car",
+      "condition": "used",
+      "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 BMW i3 Adaptive Cruise | Collision Mitigation | BC Car | No Claims",
+      "vin": "WBY1Z2C59FV555987",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/939d7641f4c6.html",
+      "year": 2015,
+      "make": "BMW",
+      "model": "i3 Adaptive Cruise",
+      "condition": "used",
+      "price": 16995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2015 Lexus NX BC CAR | 1-OWNER | WELL SERVICED",
       "vin": "JTJBARBZ0F2038764",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/76e3ceff3608.html",
@@ -68,6 +92,26 @@
       "condition": "used",
       "price": 22995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Subaru Forester BC Car | 1-owner | 2.0XT Premium |",
+      "vin": "JF2SJHDC2FH838566",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/8c15c916657a.html",
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Subaru Impreza",
+      "vin": "JF1GPAS65F8250254",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/fe1708a0bbc6.html",
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Impreza",
+      "condition": "used"
     },
     {
       "name": "2015 Subaru Legacy Sedan No Accidents | $0 Vand & Comp claim | BC Car",
@@ -81,36 +125,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Subaru Outback No Accidents | 2.5i w/Limited Pkg",
-      "vin": "4S4BSCLC1F3345664",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/2b1b17342e0b.html",
+      "name": "2015 Subaru XV Crosstrek BC Car | No Accidents | 2.0i w/Limited Pkg",
+      "vin": "JF2GPAPC1FH256806",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/bfca24e23efd.html",
       "year": 2015,
       "make": "Subaru",
-      "model": "Outback",
+      "model": "XV Crosstrek BC Car",
       "condition": "used",
-      "price": 14995.0,
+      "price": 18495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Toyota Camry Hybrid Inspected | No Accidents | BC Car | XLE",
-      "vin": "4T1BD1FK5FU157645",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/9f1cacacc272.html",
+      "name": "2015 Toyota Camry BC Car | 1-Owner | $1,808.45 Claim | SE",
+      "vin": "4T1BF1FK6FU924445",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/a74481c78733.html",
       "year": 2015,
       "make": "Toyota",
-      "model": "Camry Hybrid",
+      "model": "Camry",
       "condition": "used",
-      "price": 12995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Honda CR-V BC Car | Inspected & Safetied",
-      "vin": "2HKRM4H71GH109942",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/d78707d83417.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 14995.0,
+      "price": 16495.0,
       "price_currency": "CAD"
     },
     {
@@ -136,14 +169,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Subaru Crosstrek BC CAR | WELL MAINTAINED | Limited",
-      "vin": "JF2GPALC7G8331418",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/3064926ee273.html",
+      "name": "2016 Subaru Outback ONE OWNER! | No Accidents | BC Car",
+      "vin": "4S4BSCDC5G3334618",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/45a1421ab7dd.html",
       "year": 2016,
       "make": "Subaru",
-      "model": "Crosstrek",
+      "model": "Outback",
       "condition": "used",
-      "price": 19495.0,
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Chevrolet Colorado BC CAR | $0 claim | 4WD LT",
+      "vin": "1GCHTCEN2H1287105",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/17fcdca51857.html",
+      "year": 2017,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "used",
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -153,17 +197,6 @@
       "year": 2017,
       "make": "Honda",
       "model": "Fit",
-      "condition": "used",
-      "price": 17995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Mazda Mazda3 Sport Manual | BC Car | No Accidents | GS",
-      "vin": "3MZBN1L71HM145613",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/92f408a252df.html",
-      "year": 2017,
-      "make": "Mazda",
-      "model": "Mazda3",
       "condition": "used",
       "price": 17995.0,
       "price_currency": "CAD"
@@ -202,6 +235,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Subaru Impreza BC Car | Local | $0 & $4,569.73",
+      "vin": "4S3GTAH64H3712395",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/994b66005d76.html",
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Impreza",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Ford Explorer 1 Owner | AB Car | Limited",
       "vin": "1FM5K8FH8JGA10386",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/b4abd4382364.html",
@@ -210,6 +254,17 @@
       "model": "Explorer",
       "condition": "used",
       "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Honda CR-V BC Car | Great KM's!",
+      "vin": "2HKRW2H80JH122566",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/f7f3460543f7.html",
+      "year": 2018,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 25495.0,
       "price_currency": "CAD"
     },
     {
@@ -235,6 +290,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Infiniti Q50 BC Car | 1-Owner | $1,207.53 Claim | 3.0t LUXE",
+      "vin": "JN1EV7AR3JM444130",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/8e247d1dd3e4.html",
+      "year": 2018,
+      "make": "Infiniti",
+      "model": "Q50",
+      "condition": "used",
+      "price": 20495.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 MINI 5 Door JCW Pack | HUD | LED Pack | $15k of options!",
       "vin": "WMWXU3C51J2F51054",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/a045964616e0.html",
@@ -246,6 +312,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Subaru Crosstrek Touring",
+      "vin": "JF2GTABC2JH202782",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/0b768f0b0036.html",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Subaru Forester BC Car | No Accidents | 1-Owner | Limited",
+      "vin": "JF2SJEWC9JH582205",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/788efa7768c4.html",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Subaru Forester BC Car | $0 Bird claim | 1-Owner | Touring",
+      "vin": "JF2SJEJC3JH533296",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/aa84f61fc7e7.html",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Subaru Legacy Sedan BC Car | $6,374.31 Claim | Limited",
+      "vin": "4S3BNFN69J3039227",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/41f86ad8eea4.html",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Legacy",
+      "condition": "used",
+      "price": 18995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Toyota Prius Prime Upgrade",
       "vin": "JTDKARFPXJ3082009",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/dd662e061288.html",
@@ -254,17 +364,6 @@
       "model": "Prius Prime",
       "condition": "used",
       "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 BMW M4 Coupe CS | 1/3000 | Special Edition | Factory Tuned",
-      "vin": "WBS3S7C59KAC09656",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/30755d2285f4.html",
-      "year": 2019,
-      "make": "BMW",
-      "model": "M4 Coupe CS",
-      "condition": "used",
-      "price": 67495.0,
       "price_currency": "CAD"
     },
     {
@@ -290,17 +389,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Veloster BC Car | No Accidents | Manual",
-      "vin": "KMHTH6AB9KU002331",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/344ab046bd2d.html",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "Veloster",
-      "condition": "used",
-      "price": 17995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Subaru Forester BC Car | LOW KM's | Local Car",
       "vin": "JF2SKEDC4KH545127",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/e083e8ef1501.html",
@@ -321,6 +409,17 @@
       "condition": "used"
     },
     {
+      "name": "2019 Subaru Legacy Sedan BC Car | $2,950.17 claim | Limited",
+      "vin": "4S3BNFN69K3010912",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/3200f0e0fbfa.html",
+      "year": 2019,
+      "make": "Subaru",
+      "model": "Legacy",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Subaru Outback Touring",
       "vin": "4S4BSDDC5K3385602",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/302c043f8625.html",
@@ -332,23 +431,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Tesla Model 3 No Accidents | Standard Range",
-      "vin": "5YJ3E1EA8KF414539",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/ebaee6cd681d.html",
-      "year": 2019,
-      "make": "Tesla",
-      "model": "Model 3",
-      "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Toyota Prius Prime BC LOCAL | PLUG IN HYBRID",
       "vin": "JTDKARFP8K3105417",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/c11e3a1c4e9f.html",
       "year": 2019,
       "make": "Toyota",
       "model": "Prius Prime BC LOCAL",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Volkswagen Tiguan BC Car | $1,809.49 | Highline",
+      "vin": "3VV4B7AXXKM201020",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/75dc8f9af705.html",
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Tiguan",
       "condition": "used",
       "price": 20995.0,
       "price_currency": "CAD"
@@ -365,6 +464,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Subaru Ascent 1-Owner | BC Car | Limited",
+      "vin": "4S4WMAPD5L3405038",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/e60a06703239.html",
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Ascent",
+      "condition": "used",
+      "price": 27495.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Subaru Crosstrek Cool Khaki Grey | Convenience",
       "vin": "JF2GTABCXL8226346",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/21c1ea1aa2b8.html",
@@ -376,14 +486,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Subaru Forester $0 Claim | BC Car | 1-Owner | Premier",
-      "vin": "JF2SKEXC7LH519098",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/954172ac9901.html",
+      "name": "2020 Subaru Crosstrek BC Car | No accidents | Touring",
+      "vin": "JF2GTAPC6LH242326",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/5eaa4446e022.html",
       "year": 2020,
       "make": "Subaru",
-      "model": "Forester",
+      "model": "Crosstrek",
       "condition": "used",
-      "price": 28495.0,
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
@@ -409,14 +519,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Tesla Model 3 No Accidents! | Standard Range Plus",
-      "vin": "5YJ3E1EA2LF715700",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/d5ba7da10dd3.html",
+      "name": "2020 Subaru Outback BC Car | 1-Owner | Limited",
+      "vin": "4S4BTDNC2L3189338",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/4b785ad5a7ad.html",
       "year": 2020,
-      "make": "Tesla",
-      "model": "Model 3",
+      "make": "Subaru",
+      "model": "Outback",
       "condition": "used",
-      "price": 24495.0,
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -428,17 +538,6 @@
       "model": "RAV4",
       "condition": "used",
       "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Toyota Tacoma TRD OFF ROAD | BC CAR | $9,218 Claim",
-      "vin": "5TFCZ5AN9LX224177",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/072f04eaed7c.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -493,18 +592,7 @@
       "make": "Land",
       "model": "Rover Range Rover Evoque BC Car",
       "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Lexus NX NX 300",
-      "vin": "JTJAARDZ8M5031341",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/381068eeedcc.html",
-      "year": 2021,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 34995.0,
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -530,17 +618,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Tesla Model 3 1 Owner | Standard Range Plus",
-      "vin": "5YJ3E1EA1MF918918",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/9941d0be466c.html",
-      "year": 2021,
-      "make": "Tesla",
-      "model": "Model 3",
-      "condition": "used",
-      "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Toyota 4Runner TRD OFF ROAD | ONE OWNER | BC LOCAL",
       "vin": "JTERU5JR0M5954449",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/7bc789371075.html",
@@ -552,14 +629,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota Venza LE HYBRID | NO ACCIDENTS",
+      "name": "2021 Toyota Venza Sedan LE HYBRID | NO ACCIDENTS",
       "vin": "JTEAAAAH8MJ000822",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/1c5feb750ceb.html",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/27df117350fd.html",
       "year": 2021,
       "make": "Toyota",
       "model": "Venza",
       "condition": "used",
-      "price": 33495.0,
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Volkswagen Tiguan BC Car | $0 Claim | Comfortline",
+      "vin": "3VV2B7AX3MM157615",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/bb04b46a9658.html",
+      "year": 2021,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 20995.0,
       "price_currency": "CAD"
     },
     {
@@ -572,6 +660,15 @@
       "condition": "used",
       "price": 43995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2022 BMW X3 M40i",
+      "vin": "5UX83DP07N9J78125",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/f49a22c0caec.html",
+      "year": 2022,
+      "make": "BMW",
+      "model": "X3",
+      "condition": "used"
     },
     {
       "name": "2022 Ford Bronco Sasquatch Pack $6,350 | BC CAR | NO ACCIDENTS",
@@ -596,14 +693,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Honda Civic Sedan BC CAR | Sport",
-      "vin": "2HGFE2F56NH112803",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/a816c3f818ff.html",
+      "name": "2022 GMC Sierra 3500HD Denali",
+      "vin": "1GT49WEY6NF302096",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/c64acf7fbab5.html",
+      "year": 2022,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "used",
+      "price": 77995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Honda CR-V EX-L",
+      "vin": "2HKRW2H87NH211640",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/50a9d18aba65.html",
       "year": 2022,
       "make": "Honda",
-      "model": "Civic",
+      "model": "CR-V",
       "condition": "used",
-      "price": 19995.0,
+      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
@@ -629,47 +737,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Subaru WRX CPO | BC LOCAL | NO ACCIDENTS",
-      "vin": "JF1VBAL61N9031059",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/92725bd9bfc9.html",
+      "name": "2022 Subaru Outback BC Car | No accidents | Premier",
+      "vin": "4S4BTHPD8N3115406",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/59953cfc3da8.html",
       "year": 2022,
       "make": "Subaru",
-      "model": "WRX",
+      "model": "Outback",
       "condition": "used",
-      "price": 25995.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Tesla Model Y No Accidents | $3,119 Comp claim",
-      "vin": "7SAYGDEE0NF428396",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/bccc0c170bc3.html",
-      "year": 2022,
-      "make": "Tesla",
-      "model": "Model Y",
-      "condition": "used",
-      "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Toyota RAV4 BC Car | No Accidents | XLE",
-      "vin": "2T3R1RFV3NC256892",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/a7a5ad6ef89b.html",
+      "name": "2022 Toyota Highlander PLATINUM | No Claims | Local BC 1-Owner |",
+      "vin": "5TDFZRBH6NS197090",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/4ad84eb1f0a2.html",
       "year": 2022,
       "make": "Toyota",
-      "model": "RAV4",
+      "model": "Highlander",
       "condition": "used",
-      "price": 31495.0,
+      "price": 49995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Toyota Venza BC Car | $253.98 | XLE",
+      "name": "2022 Toyota Venza Sedan BC Car | $253.98 | XLE",
       "vin": "JTEAAAAH7NJ093236",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/1f6fef53c767.html",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/1e59cf34d2bf.html",
       "year": 2022,
       "make": "Toyota",
       "model": "Venza",
       "condition": "used",
-      "price": 37995.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -684,6 +781,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Acura RDX One Owner | BC Car | No Claims",
+      "vin": "5J8TC2H66PL803155",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/24725eb7fba8.html",
+      "year": 2023,
+      "make": "Acura",
+      "model": "RDX",
+      "condition": "used",
+      "price": 44995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Ford Mustang Mach-E Select | No Accidents | Co-Pilot360",
       "vin": "3FMTK1S51PMB10533",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/66dba26cb265.html",
@@ -695,14 +803,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mercedes-Benz GLA BC CAR | $1,456.92 | AMG GLA 35",
-      "vin": "W1N4N5BB3PJ505316",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/d445922e61bb.html",
+      "name": "2023 Honda CR-V BC Car | No Accidents | 1-Owner | Sport",
+      "vin": "2HKRS4H51PH116555",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/efaac172e959.html",
       "year": 2023,
-      "make": "Mercedes-Benz",
-      "model": "GLA",
+      "make": "Honda",
+      "model": "CR-V",
       "condition": "used",
-      "price": 39995.0,
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 MINI 5 Door Sunroof | Leather | No accidents | Cooper",
+      "vin": "WMW33DK04P2T70470",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/f0a0c0d72859.html",
+      "year": 2023,
+      "make": "MINI",
+      "model": "5 Door Sunroof",
+      "condition": "used",
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -717,23 +836,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Pathfinder Green | BC CAR | NO ACCIDENTS | 1 OWNER | SL",
-      "vin": "5N1DR3CE9PC270302",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/1f4a4577935e.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 33959.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Subaru BRZ No Accidents | AB Car",
       "vin": "JF1ZDBE1XP9700810",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/09623c1f4a9c.html",
       "year": 2023,
       "make": "Subaru",
       "model": "BRZ",
+      "condition": "used",
+      "price": 25995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Subaru Crosstrek Outdoor",
+      "vin": "JF2GTHSC4PH259244",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/b64170661d46.html",
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Crosstrek",
       "condition": "used",
       "price": 25995.0,
       "price_currency": "CAD"
@@ -759,6 +878,17 @@
       "condition": "used"
     },
     {
+      "name": "2023 Subaru Forester No Claims | Local BC 1-Owner | Touring",
+      "vin": "JF2SKEEC3PH522802",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/4451c132b759.html",
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Subaru Outback BC Car | No Accidents | 1-Owner | Prem",
       "vin": "4S4BTHPD9P3111318",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/6d9cfece4461.html",
@@ -767,17 +897,6 @@
       "model": "Outback",
       "condition": "used",
       "price": 36995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Subaru Solterra BC CAR | No Accidents | 1-Owner | w/Luxury Package",
-      "vin": "JTMABABA4PA034246",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/3b0bebdbda3f.html",
-      "year": 2023,
-      "make": "Subaru",
-      "model": "Solterra",
-      "condition": "used",
-      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
@@ -792,14 +911,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Subaru WRX BC CAR | NO ACCIDENTS | Sport",
-      "vin": "JF1VBAH60P8817002",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/5520bc0ab0ad.html",
+      "name": "2023 Subaru Solterra No Accidents | BC Car | 1-Owner",
+      "vin": "JTMABABAXPA024711",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/06794e9f300f.html",
       "year": 2023,
       "make": "Subaru",
-      "model": "WRX",
+      "model": "Solterra",
       "condition": "used",
-      "price": 25995.0,
+      "price": 30995.0,
       "price_currency": "CAD"
     },
     {
@@ -814,14 +933,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Tesla Model Y BC CAR | $0 claim | 1-Owner",
-      "vin": "LRWYGDFD1PC902713",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/ad7ea110cfc6.html",
+      "name": "2023 Tesla Model Y BC Car | No Accidents | PERFORMANCE",
+      "vin": "7SAYGDEF9PF755035",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/2fcbaf9c49e7.html",
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
       "condition": "used",
-      "price": 42995.0,
+      "price": 49995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Tesla Model Y Performance",
+      "vin": "LRWYGDEF3PC967923",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/32626cf903d8.html",
+      "year": 2023,
+      "make": "Tesla",
+      "model": "Model Y",
+      "condition": "used",
+      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
@@ -843,6 +973,17 @@
       "make": "Toyota",
       "model": "bZ4X",
       "condition": "used"
+    },
+    {
+      "name": "2023 Toyota RAV4 Hybrid No Accidents | 1-owner | XLE",
+      "vin": "2T3RWRFV7PW170763",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/259a15d9fb51.html",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "condition": "used",
+      "price": 42995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 Volkswagen Taos BC Car | No Accidents | 1-Owner | Comfortline",
@@ -874,18 +1015,7 @@
       "make": "BMW",
       "model": "X1 BC LOCAL",
       "condition": "used",
-      "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda CR-V Hybrid BC Car | 1-Owner | $6,020.49 claim | Touring",
-      "vin": "2HKRS6H99RH200527",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/2e0b32e7760d.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 37995.0,
+      "price": 34795.0,
       "price_currency": "CAD"
     },
     {
@@ -896,7 +1026,7 @@
       "make": "Honda",
       "model": "CR-V Hybrid BC LOCAL",
       "condition": "used",
-      "price": 38995.0,
+      "price": 38889.0,
       "price_currency": "CAD"
     },
     {
@@ -907,29 +1037,18 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 38995.0,
+      "price": 36795.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Outlander SEL PHEV | BC CAR | NO ACCIDENTS",
-      "vin": "JA4T5WA96RZ618344",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/232c73c8dcbb.html",
+      "name": "2024 RAM 1500 BC Car | No Accidents | 1-Owner",
+      "vin": "1C6SRFVT6RN145653",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/91b3d9da3181.html",
       "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander",
+      "make": "RAM",
+      "model": "1500",
       "condition": "used",
-      "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Ascent CPO | ONE OWNER | BC LOCAL",
-      "vin": "4S4WMAFD2R3411499",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/de1dff95a8ea.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Ascent",
-      "condition": "used",
-      "price": 30995.0,
+      "price": 52995.0,
       "price_currency": "CAD"
     },
     {
@@ -951,18 +1070,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Crosstrek CPO | BC LOCAL | NO ACCIDENTS",
-      "vin": "JF2GUABC1R8905475",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/dec3f75c6e5f.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 26995.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
@@ -973,7 +1081,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 27995.0,
+      "price": 27495.0,
       "price_currency": "CAD"
     },
     {
@@ -1010,6 +1118,26 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Subaru Forester BC Car | No Accidnets | Convenience",
+      "vin": "JF2SKEBCXRH486047",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/267c26278e0c.html",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Subaru Forester Touring",
+      "vin": "JF2SKEDC4RH505592",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/1fa1b60e3c62.html",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used"
+    },
+    {
       "name": "2024 Subaru Impreza Convenience",
       "vin": "JF1GUABCXR8866048",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/401be8406e29.html",
@@ -1019,25 +1147,14 @@
       "condition": "used"
     },
     {
-      "name": "2024 Subaru Outback Limited XT",
-      "vin": "4S4BTHND9R3116119",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/4819ac4abed8.html",
+      "name": "2024 Subaru Outback 1-Owner | BC Car | $5,956.15 | Limited XT",
+      "vin": "4S4BTHND5R3229453",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/6f4f22d02890.html",
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Solterra w/Luxury Package | NO ACCIDENTS | BC CAR| 1 OWNER",
-      "vin": "JTMABABA6RA050256",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/b92a325c10c3.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Solterra",
-      "condition": "used",
-      "price": 35995.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -1048,18 +1165,7 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru WRX CPO | BC LOCAL | ONE OWNER | NO ACCIDENTS",
-      "vin": "JF1VBAH64R8804448",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/e3d9a9ecd23e.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "used",
-      "price": 34995.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
@@ -1070,7 +1176,7 @@
       "make": "Tesla",
       "model": "Model X",
       "condition": "used",
-      "price": 114995.0,
+      "price": 111995.0,
       "price_currency": "CAD"
     },
     {
@@ -1081,7 +1187,18 @@
       "make": "Tesla",
       "model": "Model Y",
       "condition": "used",
-      "price": 46995.0,
+      "price": 45995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 BMW i4 No Accidents | Prem essential Pack | 1-Owner",
+      "vin": "WBY13HD0XSFU47843",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/632718aa52e1.html",
+      "year": 2025,
+      "make": "BMW",
+      "model": "i4",
+      "condition": "used",
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
@@ -1096,25 +1213,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Mustang Mach-E NO ACCIDENTS | Premium",
-      "vin": "3FMTK3SU6SMA64774",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/05b8af59dd89.html",
+      "name": "2025 Mazda CX-5 GT",
+      "vin": "JM3KFBDMXS0760401",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/89916d39bf56.html",
       "year": 2025,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
+      "make": "Mazda",
+      "model": "CX-5",
       "condition": "used",
-      "price": 45495.0,
+      "price": 37995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda Mazda3 Sedan AWD BC Car | Leather | No claims | GS",
+      "name": "2025 Mazda Mazda3 Sedan AWD | BC Car | Leather | No claims",
       "vin": "JM1BPBCM7S1774211",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/61d941a0a2d8.html",
       "year": 2025,
       "make": "Mazda",
-      "model": "Mazda3",
+      "model": "Mazda3 Sedan AWD",
       "condition": "used",
-      "price": 27995.0,
+      "price": 25495.0,
       "price_currency": "CAD"
     },
     {
@@ -1125,7 +1242,7 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 38995.0,
+      "price": 39495.0,
       "price_currency": "CAD"
     },
     {
@@ -1136,7 +1253,7 @@
       "make": "Subaru",
       "model": "BRZ",
       "condition": "used",
-      "price": 30995.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -1151,17 +1268,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Subaru Crosstrek BC Car | No Accidents | Convenience",
-      "vin": "JF2GUABC4SH223759",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/81bf7b125e65.html",
-      "year": 2025,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Subaru Crosstrek BC Car | No Accidents | 1Owner | Touring",
       "vin": "JF2GUADC5SH335953",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/9ccdf0794ca5.html",
@@ -1173,13 +1279,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Subaru Crosstrek Limited",
-      "vin": "JF2GUHNC3SH240914",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/131a4de214db.html",
+      "name": "2025 Subaru Crosstrek No Accidents | BC Car | Onyx",
+      "vin": "JF2GUHFC0SH242389",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/699ccd902e25.html",
       "year": 2025,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "price": 31995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Subaru Forester CPO | BC LOCAL | ONE OWNER | NO ACCIDENTS",
@@ -1189,7 +1297,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 36995.0,
+      "price": 35495.0,
       "price_currency": "CAD"
     },
     {
@@ -1237,6 +1345,37 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Subaru Forester No Accidents | BC Car | Limited",
+      "vin": "JF2SLDRC6SH441478",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/668667146825.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 36495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Subaru Forester 1-owner | BC Car | No Decs | Limited",
+      "vin": "JF2SLDRC7SH477955",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/ac25287f6ff6.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Subaru Forester Touring",
+      "vin": "JF2SLDDCXSH528291",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/1df99a758cd4.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used"
+    },
+    {
       "name": "2025 Subaru Outback BC CAR | $0 CLAIM | 1 OWNER | Limited",
       "vin": "4S4BTDNC8S3236094",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/b9e92d085cac.html",
@@ -1275,29 +1414,29 @@
       "make": "Tesla",
       "model": "Model 3",
       "condition": "used",
-      "price": 48995.0,
+      "price": 47995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Corolla Sedan BC - Local Car | LE",
+      "name": "2025 Toyota Corolla BC - Local Car | LE",
       "vin": "5YFB4MDE8SP232767",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/9aa823838b14.html",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/f8a152357856.html",
       "year": 2025,
       "make": "Toyota",
-      "model": "Corolla Sedan BC - Local Car",
+      "model": "Corolla BC - Local Car",
       "condition": "used",
-      "price": 26495.0,
+      "price": 24495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Corolla Sedan XSE",
+      "name": "2025 Toyota Corolla XSE",
       "vin": "5YFB4MBE5SP238500",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/933742a24365.html",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/62c4d82fbf09.html",
       "year": 2025,
       "make": "Toyota",
       "model": "Corolla",
       "condition": "used",
-      "price": 33995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -1312,25 +1451,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru BRZ DEMO! | tS | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF1ZDBB19T9701347",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/f8c3108d72d3.html",
+      "name": "2026 Subaru BRZ Sport-Tech | DEMO | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF1ZDBE18T8701339",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/2e3712653525.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "BRZ DEMO!",
+      "model": "BRZ",
       "condition": "used",
-      "price": 36997.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid DEMO! Hybrid Limited",
-      "vin": "JF2GUSNDXT8253456",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/8c942e1c49a9.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid DEMO! Hybrid Limited",
-      "condition": "used",
-      "price": 40997.0,
+      "price": 36800.0,
       "price_currency": "CAD"
     },
     {
@@ -1345,14 +1473,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Hybrid DEMO! | Hybrid Limited | UNDER NEW OWNERSHIP",
-      "vin": "JF2GUSND4T8264615",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/beb079f6269d.html",
+      "name": "2026 Subaru Crosstrek Hybrid DEMO! | 287 KM's | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2GUSND9T8253688",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/0d17540088aa.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid DEMO!",
       "condition": "used",
-      "price": 40991.0,
+      "price": 39190.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek Hybrid HYBRID DEMO | WE BEAT ANY SUBARU DEAL!",
+      "vin": "JF2GUSND6T8270044",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/ecd715daad4a.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid HYBRID DEMO",
+      "condition": "used",
+      "price": 39095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek Hybrid HYBRID LIMITED DEMO! | WE BEAT ANY SUBARU DEAL!",
+      "vin": "JF2GUSND3T8269577",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/b398348497ab.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "used",
+      "price": 39095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek BC Car | No Accidents | Limited",
+      "vin": "JF2GUHNC6T8217337",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/37d98ab73969.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used",
+      "price": 36495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier Demo! | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2SLSTD2TH464814",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/6b204f47c2ae.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "used",
+      "price": 46990.0,
       "price_currency": "CAD"
     },
     {
@@ -1411,6 +1583,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Subaru Forester SPORT | DEMO | WE BEAT ANY SUBARU DEAL!",
+      "vin": "JF2SLDHC5TH458839",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/57ad5cce3a47.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 36695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester DEMO | WE BEAT ANY SUBARU DEAL!",
+      "vin": "JF2SLSTD3TH466393",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/7ed2de17faf4.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester DEMO",
+      "condition": "used",
+      "price": 46295.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Subaru Outback Limited XT | *DEMO* | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2BURHD2TY508275",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/ec0a0aa13ae6.html",
@@ -1422,25 +1616,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Limited XT | NO ACCIDENTS | BC CAR | 1 Owner",
-      "vin": "JF2BURHD2TY468649",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/33c9cd601ff5.html",
+      "name": "2026 Subaru Outback Touring | DEMO | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2BUPCD4TY519287",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/176a848fb461.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 41995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback DEMO - TOURING | Be 1st OWNER!",
-      "vin": "JF2BUPCD4TY477137",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/3f8f17fc45ef.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback DEMO - TOURING",
-      "condition": "used",
-      "price": 40991.0,
+      "price": 38595.0,
       "price_currency": "CAD"
     },
     {
@@ -1463,6 +1646,17 @@
       "model": "Outback DEMO!!!",
       "condition": "used",
       "price": 51889.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Solterra Technology",
+      "vin": "JTMADAFCXTJ021646",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/c552f2d787f2.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Solterra",
+      "condition": "used",
+      "price": 51995.0,
       "price_currency": "CAD"
     },
     {
