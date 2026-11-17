@@ -1,7 +1,7 @@
 {
   "dealership": "Go Richmond Subaru",
-  "generated_at": "2026-11-17T03:19:52",
-  "vehicle_count": 487,
+  "generated_at": "2026-11-17T04:00:21",
+  "vehicle_count": 496,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1671,28 +1671,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru BRZ tS | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF1ZDBS15T9702480",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/fd65e6750aa2.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "BRZ",
-      "condition": "new",
-      "price": 40385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru BRZ Sport-Tech | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF1ZDBE18T8701339",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/77dec6f772c8.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "BRZ",
-      "condition": "new",
-      "price": 40385.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru BRZ BRZ | WE BEAT ANY SUBARU DEAL",
       "vin": "JF1ZDBB12T9703229",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/54e177a26645.html",
@@ -1701,39 +1679,6 @@
       "model": "BRZ",
       "condition": "new",
       "price": 35885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru BRZ ARRIVING SOON | BRZ | UNDER NEW OWNERSHIP",
-      "vin": "JF1ZDBB17T9702948",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ae79ab2ff8a1.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "BRZ",
-      "condition": "new",
-      "price": 35885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru BRZ tS | UNDER NEW OWNERSHIP",
-      "vin": "JF1ZDBS12T9701514",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/3970e20f6edf.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "BRZ",
-      "condition": "new",
-      "price": 40585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid *DEMO* - HYBRID LIMITED",
-      "vin": "JF2GUSND1T8246332",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/993c35659b00.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid",
-      "condition": "new",
-      "price": 41889.0,
       "price_currency": "CAD"
     },
     {
@@ -1751,39 +1696,6 @@
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2GUSND1T8282019",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d03d2f7a4d1f.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 43285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUSND4T8294441",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ccedba5aae7a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 43285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUSND4T8295055",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/b3ba44f3633c.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 43285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUSND7T8295633",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/37d9b3a6b369.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
@@ -1815,19 +1727,8 @@
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUSND1T8279623",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/5c8e744628bd.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 43285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid HYBRID LIMITED | UNDER NEW OWNERSHIP",
-      "vin": "JF2GUSND0T8253921",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/295433a2e574.html",
+      "vin": "JF2GUSND9T8287579",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/59e182aa8bb2.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
@@ -1837,8 +1738,19 @@
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUSND7T8287371",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/485eef2a82b8.html",
+      "vin": "JF2GUSND0T8287342",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/82e4cfb658d5.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "price": 43285.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek Hybrid HYBRID LIMITED | UNDER NEW OWNERSHIP",
+      "vin": "JF2GUSND4T8258300",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/62d62a673687.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid Hybrid",
@@ -1968,17 +1880,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHFC0T8277175",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/656fed485c78.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 37785.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2GUHDC0T8280399",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/a352f01fe09c.html",
@@ -2078,17 +1979,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHNC3T8275647",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/7abf19a945a7.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 40785.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2GUHFC7T8288867",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/15ffb49a8529.html",
@@ -2155,17 +2045,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHDC8T8289254",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/1d395c746fff.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36285.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Crosstrek Limited | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2GUHNC4T8287970",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/73ce444b70aa.html",
@@ -2211,17 +2090,6 @@
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHFC7T8287783",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/4e0fa81b64a4.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 37785.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2GUHFC9T8288966",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ecc43553bf96.html",
       "year": 2026,
@@ -2244,52 +2112,8 @@
     },
     {
       "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHDC9T8292387",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/c52252de86b6.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHFC5T8292013",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/0b3717c6def1.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 37785.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHDC5T8292094",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/9c7718889092.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2GUHDC6T8294906",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/b599bf61280d.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHDC0T8295016",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/00093f6e4f35.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
@@ -2301,17 +2125,6 @@
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2GUHFC9T8293925",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/0375c983296a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 37785.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHFC2T8294236",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/637565938d24.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
@@ -2364,17 +2177,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHDCXT8295346",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/365a365c0e8f.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36285.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2GUHFC4T8295744",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d256610ec8a5.html",
@@ -2386,28 +2188,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Convenience | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUHBC3T8298169",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/1f8314410cf3.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 33285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Convenience",
-      "vin": "JF2GUHBC7T8295775",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/f57cdcc03eb8.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 33285.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2GUHFC2T8280126",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/15a24ac010f0.html",
@@ -2416,6 +2196,28 @@
       "model": "Crosstrek",
       "condition": "new",
       "price": 37785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek Convenience | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2GUHBC2T8276406",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/0678a7c19e99.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33285.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek Touring",
+      "vin": "JF2GUHDC1T8283196",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/7e911d292a0d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36785.0,
       "price_currency": "CAD"
     },
     {
@@ -2438,17 +2240,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 41885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLDRC7TH467816",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/29d2f38c3b31.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 46385.0,
       "price_currency": "CAD"
     },
     {
@@ -2507,17 +2298,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLDAC0TH468236",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/f75496271a99.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 36885.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2SLDRC4TH468101",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/bf8a11812e09.html",
@@ -2526,17 +2306,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 46385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLDDC9TH467811",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d800a48a3535.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41885.0,
       "price_currency": "CAD"
     },
     {
@@ -2581,17 +2350,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 44385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLDAC2TH472014",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/6d9ece249c9e.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 36885.0,
       "price_currency": "CAD"
     },
     {
@@ -2691,17 +2449,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 46385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier Demo! | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLSTD2TH464814",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/b09b6ac2b3e9.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51385.0,
       "price_currency": "CAD"
     },
     {
@@ -2889,17 +2636,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 48385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLDDC3TH469750",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/6ace16129e4e.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41885.0,
       "price_currency": "CAD"
     },
     {
@@ -3190,17 +2926,6 @@
     },
     {
       "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLDDC1TH476261",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/0581ec8121c6.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2SLDDC6TH475249",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/e6352fdc4a69.html",
       "year": 2026,
@@ -3486,17 +3211,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Convenience | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLDACXTH474934",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/8996df45b498.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 36885.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2SLDRC9TH462830",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/195c5b5518e4.html",
@@ -3511,17 +3225,6 @@
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2SLSTD6TH470406",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/86446c83825e.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLSTD4TH471215",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/121d898bc733.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
@@ -3674,17 +3377,6 @@
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLSTD0TH469977",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/83def5905ad1.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2SLSTD5TH475080",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/19275be77e1b.html",
       "year": 2026,
@@ -3706,17 +3398,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLSTD2TH469382",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/34ae0aef1902.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51385.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2SLDRC0TH474946",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/63a78f9f02cb.html",
@@ -3725,39 +3406,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 46385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester SPORT | UNDER NEW OWNERSHIP",
-      "vin": "JF2SLDHC5TH458839",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/913d2dc58170.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 44385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester HYBRID PREMIER | UNDER NEW OWNERSHIP",
-      "vin": "JF2SLSTD8TH463974",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/4585ee048764.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51385.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester ARRIVING SOON | HYBRID PREMIER | UNDER NEW OWNERSHIP",
-      "vin": "JF2SLSTD3TH471898",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/91f3bead63e8.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 51385.0,
       "price_currency": "CAD"
     },
     {
@@ -4059,13 +3707,112 @@
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2SLSTD2TH474419",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/1d202b11ee11.html",
+      "vin": "JF2SLSTD8TH481424",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/f778a63d4111.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
       "condition": "new",
       "price": 51385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2SLSTD8TH481505",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/73b8d0d6da23.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 51385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2SLSTD4TH481310",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/1ec371258f58.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 51385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Premier",
+      "vin": "JF2SLDTC4TH483707",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/6739fc1735c3.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 48385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier",
+      "vin": "JF2SLSTD7TH474559",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/da8fc1865a68.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 51385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester ARRIVING SOON",
+      "vin": "JF2SLSTD4TH469044",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d918fc594838.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 51385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester HYBRID PREMIER | UNDER NEW OWNERSHIP",
+      "vin": "JF2SLSTD7TH468745",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/cc9d75c020ec.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 51385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester HYBRID PREMIER | UNDER NEW OWNERSHIP",
+      "vin": "JF2SLSTD3TH468144",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/7cb1f5407416.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 51385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier",
+      "vin": "JF2SLSTD5TH483809",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/352b7d6c461e.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 51385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Sport",
+      "vin": "JF2SLDHC2TH483939",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/9d92e3f12037.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 44385.0,
       "price_currency": "CAD"
     },
     {
@@ -4121,28 +3868,6 @@
       "model": "Outback",
       "condition": "new",
       "price": 53885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2BUPCD4TY519287",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/2682dbfb9be8.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 43585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Limited XT | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2BURHD5TY572892",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/e4bafe73b946.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 50885.0,
       "price_currency": "CAD"
     },
     {
@@ -4730,17 +4455,6 @@
     },
     {
       "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2BURJD5TY591601",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/124a75cba71a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 53885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Premier XT | WE BEAT ANY SUBARU DEAL",
       "vin": "JF2BURJD1TY590056",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/14fea8920fd3.html",
       "year": 2026,
@@ -4818,17 +4532,6 @@
     },
     {
       "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2BURLD1TY579765",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d20a30d2a976.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 51885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness",
       "vin": "JF2BURLD7TY596117",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/747bfdcb9e5b.html",
       "year": 2026,
@@ -4842,17 +4545,6 @@
       "name": "2026 Subaru Outback Wilderness",
       "vin": "JF2BURLD8TY596577",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/c8e9a980f05c.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 51885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness",
-      "vin": "JF2BURLD1TY584657",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/c2184b359bc3.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
@@ -4894,47 +4586,113 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Trailseeker Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JTMBGAHC7TY008014",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/8383cb9239b9.html",
+      "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2BURLD0TY562097",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d0cafbbde47a.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Trailseeker Touring",
+      "model": "Outback",
       "condition": "new",
-      "price": 57685.0,
+      "price": 51885.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Uncharted FWD | WE BEAT ANY SUBARU DEAL",
-      "vin": "JTMACABE5TJ026683",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/340fffa08e4f.html",
+      "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2BURLD8TY599995",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/3fd8fcf7d7b0.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Uncharted FWD",
+      "model": "Outback",
       "condition": "new",
-      "price": 45685.0,
+      "price": 51885.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Uncharted Sport | WE BEAT ANY SUBARU DEAL",
-      "vin": "JTMAAAAE3TJ026883",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/3c99149146da.html",
+      "name": "2026 Subaru Outback Touring | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2BUPCD0TY616065",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/13f46569d843.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Uncharted Sport",
+      "model": "Outback",
       "condition": "new",
-      "price": 52685.0,
+      "price": 43585.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Uncharted GT",
-      "vin": "JTMAAAAEXTJ005965",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/4ee0238befa1.html",
+      "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2BURLD1TY616586",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/258c18b84ce1.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Uncharted GT",
+      "model": "Outback",
       "condition": "new",
-      "price": 54685.0,
+      "price": 51885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2BURLD8TY600918",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/f80badd61f15.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 51885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2BURLD8TY601485",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/150bada713ec.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 51885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2BURLD3TY599824",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/77c6c7c0216f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 51885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness",
+      "vin": "JF2BURLD8TY562977",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/69165cb7d257.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 51885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback ARRIVING SOON",
+      "vin": "JF2BURLD9TY482815",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/7f8238fe9e5c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 51885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback WILDERNESS | UNDER NEW OWNERSHIP",
+      "vin": "JF2BURLD4TY560546",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d38fe948741a.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 51885.0,
       "price_currency": "CAD"
     },
     {
@@ -4946,28 +4704,6 @@
       "model": "WRX",
       "condition": "new",
       "price": 50885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru WRX GT | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF1VBAV63T8814111",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/2f520fd50155.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "new",
-      "price": 49485.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru WRX Sport-Tech | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF1VBAN66T9806093",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/b5d33a533237.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "new",
-      "price": 46085.0,
       "price_currency": "CAD"
     },
     {
@@ -4993,17 +4729,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru WRX tS | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF1VBAZ60T9811381",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/5dafb28b59d9.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "new",
-      "price": 50885.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru WRX Sport",
       "vin": "JF1VBAH63T9817693",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/611b48761272.html",
@@ -5012,6 +4737,17 @@
       "model": "WRX",
       "condition": "new",
       "price": 41085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru WRX KAMINARI EDITION | UNDER NEW OWNERSHIP",
+      "vin": "JF1VBAZ6XT9803028",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ccd51db1027e.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "WRX",
+      "condition": "new",
+      "price": 52485.0,
       "price_currency": "CAD"
     },
     {
@@ -5081,17 +4817,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Subaru Crosstrek Hybrid Hybrid ONYX | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2GUSGD0V8202662",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/e0f3da7dedbe.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 39885.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC6V8204184",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/fad0ff6cf9ea.html",
@@ -5103,25 +4828,476 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Subaru Solterra Premier",
-      "vin": "JTMADAFC4VA016350",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/3af8bc52291e.html",
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD1V8202301",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/6c88a9b3acd1.html",
       "year": 2027,
       "make": "Subaru",
-      "model": "Solterra",
+      "model": "Crosstrek Hybrid",
       "condition": "new",
-      "price": 56985.0,
+      "price": 39885.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Subaru Solterra Premier",
-      "vin": "JTMADAFC6VA016589",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/6e3105ee90f6.html",
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD1V8204209",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/2133452ffd72.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD8V8202652",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/cef519fe4621.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD3V8204566",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/372f415534d2.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD5V8203225",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d64c6183b5e9.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD7V8204148",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/3fabae962e21.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD9V8203857",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/9eaafea3aaa0.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD7V8204179",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/48cba6d2d0c8.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD1V8202394",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/91ec12c91250.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx",
+      "vin": "JF2GUSGD0V8202564",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/b060c425bba7.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC8V8209327",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/98ccf8c44f47.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx | WE BEAT ANY SUBARU DEAL",
+      "vin": "JF2GUHFC1V8210460",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/78194f61c0b1.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38285.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC6V8209634",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/2bb0689b941c.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC0V8209385",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/07f5b3d7753c.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx",
+      "vin": "JF2GUHFC6V8213774",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/7122cccfa7a5.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38285.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC2V8213941",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/fa50f23da46f.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx",
+      "vin": "JF2GUHFC0V8204407",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/4b4ceda3b3f3.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 39285.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Touring",
+      "vin": "JF2GUHDC1V8205004",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/baed44fd1d3a.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Touring",
+      "vin": "JF2GUHDC6V8204902",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/64f941c52ad6.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBCXV8205019",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/92063ee9d79c.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Limited",
+      "vin": "JF2GUHNC2V8205558",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/8e4fba19628a.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 41385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC6V8204787",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/3c53314b4c22.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Touring",
+      "vin": "JF2GUHDCXV8204904",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/4ef39d59ac59.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC6V8204840",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/4380c8009fbb.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC6V8204496",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/2ae5f86fe537.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Touring",
+      "vin": "JF2GUHDC2V8204766",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/9dfa5537bb5f.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx",
+      "vin": "JF2GUHFC6V8214293",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ea7cb27428a8.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38285.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Limited",
+      "vin": "JF2GUSND1V8215181",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/9bdda60963f5.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 43285.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC9V8214147",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ed7b0c2901b7.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Touring",
+      "vin": "JF2GUHDC4V8214277",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/524bb144c647.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC7V8215250",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/7bf242e6a28c.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Premier XT",
+      "vin": "JF2BURJD8VY451237",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/983d0f6a3b64.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 55485.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Premier XT",
+      "vin": "JF2BURJD2VY457941",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/624acfe1f7a2.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 55485.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Wilderness",
+      "vin": "JF2BURMDXVY453292",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/53a5b8c55908.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 52885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Wilderness",
+      "vin": "JF2BURMD8VY451525",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/1d0b3d30f354.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 52885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Premier XT",
+      "vin": "JF2BURJD1VY450690",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/345859a82c9d.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 55485.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Wilderness",
+      "vin": "JF2BURMD1VY451060",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/e9717befcf9a.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 52885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Wilderness",
+      "vin": "JF2BURMD1VY452158",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/0217a2f0108e.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 52885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Premier XT",
+      "vin": "JF2BURJD8VY451139",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d32b75bae3dd.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 55485.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Wilderness",
+      "vin": "JF2BURMD4VY451635",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ca1524469761.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 52885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Premier XT",
+      "vin": "JF2BURJD8VY451397",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/47483216409c.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 55485.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Outback Touring XT",
+      "vin": "JF2BURJD3VY463750",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/8e210056c59f.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 55485.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Solterra Limited | WE BEAT ANY SUBARU DEAL",
+      "vin": "JTMADAFC1VA017469",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d57b56e8da36.html",
       "year": 2027,
       "make": "Subaru",
       "model": "Solterra",
       "condition": "new",
-      "price": 56985.0,
+      "price": 52985.0,
       "price_currency": "CAD"
     },
     {
@@ -5133,72 +5309,6 @@
       "model": "Trailseeker Trailseeker Premier",
       "condition": "new",
       "price": 60985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Trailseeker Trailseeker Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JTMBGAHC7VY002801",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/6bab0b712a22.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Trailseeker Limited",
-      "condition": "new",
-      "price": 56985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Trailseeker Trailseeker Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JTMBGAHCXVY003005",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/784b3fd1f3b2.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Trailseeker Limited",
-      "condition": "new",
-      "price": 56985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Trailseeker Trailseeker Premier | WE BEAT ANY SUBARU DEAL",
-      "vin": "JTMBGAHC6VY002823",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/eac13c51ea35.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Trailseeker Premier",
-      "condition": "new",
-      "price": 60985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Trailseeker Trailseeker Touring | WE BEAT ANY SUBARU DEAL",
-      "vin": "JTMBGAHC7VY002829",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/664c10d305e3.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Trailseeker Touring",
-      "condition": "new",
-      "price": 52985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Trailseeker Premier",
-      "vin": "JTMBGAHC2VY002530",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/a5764b2f89df.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Premier",
-      "condition": "new",
-      "price": 60985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Trailseeker Touring",
-      "vin": "JTMBGAHC3VY002472",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/bb1d42924195.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Touring",
-      "condition": "new",
-      "price": 52985.0,
       "price_currency": "CAD"
     },
     {
@@ -5235,17 +5345,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Subaru Trailseeker Limited | WE BEAT ANY SUBARU DEAL",
-      "vin": "JTMBGAHC7VY003298",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/b7a17dd9cec9.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Limited",
-      "condition": "new",
-      "price": 56985.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Subaru Uncharted ",
       "vin": "JTMACABE5VJ033488",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/15472ade2b26.html",
@@ -5265,39 +5364,6 @@
       "model": "Uncharted",
       "condition": "new",
       "price": 40995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Uncharted Sport",
-      "vin": "JTMAAAAE7VJ031183",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ce28dca9b571.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Uncharted Sport",
-      "condition": "new",
-      "price": 50985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Uncharted GT",
-      "vin": "JTMAAAAE6VJ028985",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/c46cc70be709.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Uncharted GT",
-      "condition": "new",
-      "price": 52985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Uncharted Sport",
-      "vin": "JTMAAAAE7VJ033130",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/d6dde7608757.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Uncharted Sport",
-      "condition": "new",
-      "price": 50985.0,
       "price_currency": "CAD"
     },
     {
@@ -5323,17 +5389,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Subaru Uncharted GT",
-      "vin": "JTMAAAAE0VJ032093",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/56955704e80d.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Uncharted GT",
-      "condition": "new",
-      "price": 52985.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Subaru Uncharted FWD",
       "vin": "JTMACABEXVJ037441",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/0b794898aa14.html",
@@ -5342,6 +5397,50 @@
       "model": "Uncharted FWD",
       "condition": "new",
       "price": 43985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Uncharted FWD | WE BEAT ANY SUBARU DEAL",
+      "vin": "JTMACABE2VJ037725",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/445df9e99bd4.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Uncharted FWD",
+      "condition": "new",
+      "price": 43985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Uncharted Sport | WE BEAT ANY SUBARU DEAL",
+      "vin": "JTMAAAAE5VJ033742",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/364632953b35.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Uncharted Sport",
+      "condition": "new",
+      "price": 50985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Uncharted GT",
+      "vin": "JTMAAAAE8VJ035727",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/efc6746a335f.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Uncharted GT",
+      "condition": "new",
+      "price": 52985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Uncharted Sport",
+      "vin": "JTMAAAAE7VJ035556",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/54352b0de3f2.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Uncharted Sport",
+      "condition": "new",
+      "price": 50985.0,
       "price_currency": "CAD"
     }
   ]
