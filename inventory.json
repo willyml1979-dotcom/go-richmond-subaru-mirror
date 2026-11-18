@@ -1,6 +1,6 @@
 {
   "dealership": "Go Richmond Subaru",
-  "generated_at": "2026-11-18T07:49:14",
+  "generated_at": "2026-11-18T16:10:25",
   "vehicle_count": 488,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -17,14 +17,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2010 Mazda Mazda3 Sport $0 Claim | Well-Maintained | BC Car | GX",
+      "name": "2010 Mazda Mazda3 Sport BC Car | $0 Claim | INSPECTED | GX",
       "vin": "JM1BL1HF8A1281765",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/b4ad3e50002d.html",
       "year": 2010,
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 9495.0,
+      "price": 7995.0,
       "price_currency": "CAD"
     },
     {
@@ -35,7 +35,7 @@
       "make": "BMW",
       "model": "3 Series",
       "condition": "used",
-      "price": 11995.0,
+      "price": 9995.0,
       "price_currency": "CAD"
     },
     {
@@ -112,7 +112,7 @@
       "make": "Subaru",
       "model": "Legacy",
       "condition": "used",
-      "price": 14995.0,
+      "price": 12995.0,
       "price_currency": "CAD"
     },
     {
@@ -255,7 +255,7 @@
       "make": "Honda",
       "model": "Fit",
       "condition": "used",
-      "price": 20995.0,
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -266,7 +266,7 @@
       "make": "Infiniti",
       "model": "Q50",
       "condition": "used",
-      "price": 18495.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
@@ -336,14 +336,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota Prius Prime Upgrade",
+      "name": "2018 Toyota Prius Prime One owner | BC Car | Leather",
       "vin": "JTDKARFPXJ3082009",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/dd662e061288.html",
       "year": 2018,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "used",
-      "price": 23995.0,
+      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
@@ -354,7 +354,7 @@
       "make": "Honda",
       "model": "Accord",
       "condition": "used",
-      "price": 24995.0,
+      "price": 23795.0,
       "price_currency": "CAD"
     },
     {
@@ -378,14 +378,14 @@
       "condition": "used"
     },
     {
-      "name": "2019 Subaru Forester BC Car | LOW KM's | Local Car",
+      "name": "2019 Subaru Forester 2.5 Engine | BC Car | No Accidents",
       "vin": "JF2SKEDC4KH545127",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/e083e8ef1501.html",
       "year": 2019,
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 28495.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -561,18 +561,18 @@
       "make": "Acura",
       "model": "TLX",
       "condition": "used",
-      "price": 37495.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Kia Soul ",
+      "name": "2021 Kia Soul BC Car | No Accidents | EX",
       "vin": "KNDJ33AU1M7745996",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/5b6baaf53d70.html",
       "year": 2021,
       "make": "Kia",
       "model": "Soul",
       "condition": "used",
-      "price": 18995.0,
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -1120,13 +1120,15 @@
       "condition": "used"
     },
     {
-      "name": "2024 Subaru Impreza Convenience",
+      "name": "2024 Subaru Impreza BC Car | No Accidents | 1Owner | Convenience",
       "vin": "JF1GUABCXR8866048",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/401be8406e29.html",
       "year": 2024,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "used"
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 Subaru Outback 1-Owner | BC Car | $5,956.15 | Limited XT",
@@ -1323,7 +1325,7 @@
       "make": "Subaru",
       "model": "Forester HYBRID",
       "condition": "used",
-      "price": 49495.0,
+      "price": 47995.0,
       "price_currency": "CAD"
     },
     {
@@ -1561,7 +1563,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 46995.0,
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
