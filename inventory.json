@@ -1,6 +1,6 @@
 {
   "dealership": "Go Richmond Subaru",
-  "generated_at": "2026-11-17T22:19:56",
+  "generated_at": "2026-11-18T07:37:05",
   "vehicle_count": 488,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -83,14 +83,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Lexus NX BC CAR | 1-OWNER | WELL SERVICED",
+      "name": "2015 Lexus NX Prem Pack | BC CAR | 1-OWNER | WELL SERVICED",
       "vin": "JTJBARBZ0F2038764",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/76e3ceff3608.html",
       "year": 2015,
       "make": "Lexus",
       "model": "NX",
       "condition": "used",
-      "price": 22995.0,
+      "price": 21995.0,
       "price_currency": "CAD"
     },
     {
@@ -178,7 +178,7 @@
       "make": "Honda",
       "model": "Fit",
       "condition": "used",
-      "price": 17995.0,
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -211,7 +211,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 21995.0,
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -233,7 +233,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 17995.0,
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -539,7 +539,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 17995.0,
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -550,7 +550,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "used",
-      "price": 26995.0,
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -1089,14 +1089,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Subaru Forester Sport",
+      "name": "2024 Subaru Forester BC Car | $0 Vand claim | 1-Owner | Sport",
       "vin": "JF2SKEFC3RH486580",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/9965072cdaa6.html",
       "year": 2024,
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 32995.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -1191,7 +1191,7 @@
       "make": "Chevrolet",
       "model": "Equinox EV",
       "condition": "used",
-      "price": 39995.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -1257,7 +1257,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 29995.0,
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -1312,7 +1312,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 36995.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
