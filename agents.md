@@ -7,7 +7,7 @@ Go Richmond Subaru is a Subaru dealership in BC. This site is an AI-readable mir
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/ and https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ (about 496 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/ and https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/new/ (about 494 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/llms.txt

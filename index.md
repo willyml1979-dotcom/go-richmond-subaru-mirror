@@ -1,6 +1,6 @@
 # Go Richmond Subaru
 
-Subaru dealership in BC. AI-readable inventory mirror, about 496 vehicles.
+Subaru dealership in BC. AI-readable inventory mirror, about 494 vehicles.
 
 - Official website: https://www.gorichmondsubaru.ca
 - Used vehicles: https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/

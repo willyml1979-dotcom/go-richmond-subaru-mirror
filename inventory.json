@@ -1,7 +1,7 @@
 {
   "dealership": "Go Richmond Subaru",
-  "generated_at": "2026-11-17T04:00:21",
-  "vehicle_count": 496,
+  "generated_at": "2026-11-17T22:00:02",
+  "vehicle_count": 494,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -105,15 +105,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Subaru Impreza",
-      "vin": "JF1GPAS65F8250254",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/fe1708a0bbc6.html",
-      "year": 2015,
-      "make": "Subaru",
-      "model": "Impreza",
-      "condition": "used"
-    },
-    {
       "name": "2015 Subaru Legacy Sedan No Accidents | $0 Vand & Comp claim | BC Car",
       "vin": "4S3BNCD60F3031976",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/cb38495b5882.html",
@@ -180,17 +171,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Chevrolet Colorado BC CAR | $0 claim | 4WD LT",
-      "vin": "1GCHTCEN2H1287105",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/17fcdca51857.html",
-      "year": 2017,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Honda Fit NO ACCIDENTS | BC CAR | 2 OWNERS | SE",
       "vin": "3HGGK5H68HM101568",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/010abcafc642.html",
@@ -209,7 +189,7 @@
       "make": "Mercedes-Benz",
       "model": "GLE",
       "condition": "used",
-      "price": 23995.0,
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -389,6 +369,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Mazda CX-5 GS",
+      "vin": "JM3KFBCM0K0616809",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/4eefd762a783.html",
+      "year": 2019,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used"
+    },
+    {
       "name": "2019 Subaru Forester BC Car | LOW KM's | Local Car",
       "vin": "JF2SKEDC4KH545127",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/e083e8ef1501.html",
@@ -400,13 +389,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Subaru Forester Sport",
+      "name": "2019 Subaru Forester BC Car | Sport | $3,224.33 claim",
       "vin": "JF2SKEKC0KH552191",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/eb1421c4a725.html",
       "year": 2019,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "price": 25995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 Subaru Legacy Sedan BC Car | $2,950.17 claim | Limited",
@@ -482,7 +473,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 24995.0,
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
@@ -537,7 +528,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 27995.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -715,17 +706,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Mercedes-Benz GLB BC LOCAL | NO ACCIDENTS",
-      "vin": "W1N4M4HB8NW205579",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/d54a628a901a.html",
-      "year": 2022,
-      "make": "Mercedes-Benz",
-      "model": "GLB BC LOCAL",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Subaru BRZ BC Car | No Accidents | Sport-tech",
       "vin": "JF1ZDBE18N9700186",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/f44f47344a02.html",
@@ -733,7 +713,7 @@
       "make": "Subaru",
       "model": "BRZ",
       "condition": "used",
-      "price": 29995.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -966,13 +946,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota bZ4X XLE",
+      "name": "2023 Toyota bZ4X BC CAR | $1,398.40 Claim | XLE",
       "vin": "JTMABACA4PA043091",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/370b2e496035.html",
       "year": 2023,
       "make": "Toyota",
       "model": "bZ4X",
-      "condition": "used"
+      "condition": "used",
+      "price": 30995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 Toyota RAV4 Hybrid No Accidents | 1-owner | XLE",
@@ -1308,7 +1290,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 36995.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -1319,7 +1301,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 37995.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -1383,13 +1365,24 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 42995.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Subaru Outback Convenience",
+      "name": "2025 Subaru Outback | BC Car | 1-owner | $5,248.60 claim | Convenience",
       "vin": "4S4BTDAC8S3189123",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/351a60651e71.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Subaru Outback Wilderness",
+      "vin": "4S4BTHTD3S3177748",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/d8251bcb7da4.html",
       "year": 2025,
       "make": "Subaru",
       "model": "Outback",
@@ -1447,7 +1440,7 @@
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "used",
-      "price": 35495.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -1535,29 +1528,29 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 38995.0,
+      "price": 36995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Hybrid DEMO!",
+      "name": "2026 Subaru Forester Hybrid DEMO! Dash Cam | WE BEAT ANY SUBARU DEAL!",
       "vin": "JF2SLSTD6TH463147",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/349bf8c1cfe1.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid DEMO!",
+      "model": "Forester Hybrid DEMO! Dash Cam",
       "condition": "used",
-      "price": 49481.0,
+      "price": 46990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester DEMO! | Hybrid Premier",
+      "name": "2026 Subaru Forester DEMO! | Hybrid Premier | WE BEAT ANY SUBARU DEAL!",
       "vin": "JF2SLSTD6TH463469",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/61e9246beacf.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester DEMO!",
       "condition": "used",
-      "price": 48991.0,
+      "price": 46887.0,
       "price_currency": "CAD"
     },
     {
@@ -1612,7 +1605,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 47998.0,
+      "price": 45395.0,
       "price_currency": "CAD"
     },
     {
@@ -1624,17 +1617,6 @@
       "model": "Outback",
       "condition": "used",
       "price": 38595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Premier XT DEMO | WE BEAT ANY SUBARU DEAL",
-      "vin": "JF2BURJD7TY468544",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-subaru-mirror/used/800e6e854bda.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 48994.0,
       "price_currency": "CAD"
     },
     {
